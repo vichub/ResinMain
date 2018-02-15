@@ -1,0 +1,6 @@
+local_resinos: {}
+uuid: 43a42632a62f0106571887565d3b2fbf
+destination: /root/pages
+ignore:
+  - .git
+  - node_modules/

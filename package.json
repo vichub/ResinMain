@@ -1,0 +1,28 @@
+{
+  "name": "Main",
+  "version": "1.0.0",
+  "description": "A simple blank project",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vichub/ResinMain.git"
+  },
+  "keywords": [
+    "resin.io",
+    "blank",
+    "static"
+  ],
+  "author": "Will Roberts",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    
+  }
+}
